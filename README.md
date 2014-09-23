@@ -16,4 +16,5 @@ En un terminal ejecutar
 2. Para listar por terminal las rutas de archivos y directorios que contienen los carácteres conflictivos presentes en otro directorio y sus sub-directorios.
     ./fn2u.sh [ruta] 1
 
-3. Para 
+3. Para modificar los nombres de los archivos y directorios contienen los carácteres conflictivos presentes en otro directorio y sus sub-directorios
+    ./fn2u.sh [ruta] 2
