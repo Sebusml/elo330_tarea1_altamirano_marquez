@@ -1,5 +1,6 @@
-elo330_tarea1_altamirano_marquez
+Tarea 1
 ================================
 
-Esto es markdown?
-====
+Archivos
+----
+Para poder ejecutar la tarea se debe tener los archivos *hola*
