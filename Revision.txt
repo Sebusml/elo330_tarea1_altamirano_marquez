@@ -1,0 +1,11 @@
+Revisión del ayudante:
+
+Documentación (30%):	100
+Ejecución P1 (35%):		80
+Ejecución P2 (35%):		80
+-----------------------------
+Total:					86
+
+Comentarios:
+El código hacía lo pedido, y la documentación estaba perfecta, sin embargo si la ruta del script (no del directorio proporcionado, del script) contiene el espacio, el script no funciona.
+
